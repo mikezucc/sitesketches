@@ -10,14 +10,14 @@
 	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
 	<key>fonts</key>
 	<array>
-		<string>AvenirNext-Bold</string>
-		<string>AvenirNext-Regular</string>
 		<string>.LucidaGrandeUI</string>
+		<string>AvenirNext-Regular</string>
+		<string>AvenirNext-Bold</string>
 		<string>Palatino-Italic</string>
 		<string>AvenirNext-Medium</string>
 	</array>
 	<key>length</key>
-	<integer>756041</integer>
+	<integer>798697</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
