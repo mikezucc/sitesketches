@@ -12,12 +12,13 @@
 	<array>
 		<string>.LucidaGrandeUI</string>
 		<string>AvenirNext-Regular</string>
+		<string>Avenir-Book</string>
 		<string>AvenirNext-Bold</string>
 		<string>Palatino-Italic</string>
 		<string>AvenirNext-Medium</string>
 	</array>
 	<key>length</key>
-	<integer>807823</integer>
+	<integer>808270</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
